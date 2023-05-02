@@ -3,8 +3,17 @@
     max-height: 100%;
 }
 
-@media screen and (max-width: 320px) {
+
+@media screen and (max-width: 1024px) {
+    .place__image {
+        max-width: 42.9vw;
+        max-height: 100%;
+    }
+}
+
+@media screen and (max-width: 768px) {
     .place__image {
         max-width: 100%;
+        max-height: 100%;
     }
 }

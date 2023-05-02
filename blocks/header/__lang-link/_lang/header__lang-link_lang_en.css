@@ -1,2 +1,8 @@
 .header__lang-link_lang_en {
+    text-decoration: none;
+    
+}
+
+.header__lang-link_lang_en:hover {
+    opacity: .8;
 }
