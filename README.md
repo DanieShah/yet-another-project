@@ -12,4 +12,4 @@
 * Использование Методологии БЭМ для упращения написания кода;
 * и другие
 
-* [GitHub Pages](https://danieshah.github.io/russian-travel/)
+* [GitHub Pages](https://danieshah.github.io/yet-another-project/)
