@@ -23,6 +23,7 @@
 @media screen and (max-width: 768px) {
     .place {
         column-gap: calc(100vw - 740px);
+        row-gap: calc(100vw - 720px);
         margin-bottom: 73px;
     }
 }

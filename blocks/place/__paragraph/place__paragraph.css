@@ -15,7 +15,15 @@
     .place__paragraph {
         font-size: 16px;
         line-height: 26px;
-        width: calc(100vw - 416px);
+        max-width: calc(100vw - 416px);
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .place__paragraph {
+        font-size: 2.6vw;
+        line-height: 3.9vw;
+        max-width: 53.8vh;
     }
 }
 
@@ -23,6 +31,8 @@
     .place__paragraph {
         width: 90vw; 
         margin-left: 16px;
+        font-size: 16px;
+        line-height: 26px;
     }
     .place__paragraph:last-of-type {
         margin-left: 16px;
